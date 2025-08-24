@@ -9,7 +9,7 @@ It includes basic features like:
 - PDF order export (TCPDF)
 - MySQL dashboard summaries
 
-## 🔧 Technologies
+## Technologies
 
 - PHP 7+
 - MySQL
@@ -17,7 +17,7 @@ It includes basic features like:
 - HTML/CSS
 - No frameworks
 
-## 📦 Modules
+## Modules
 
 - `/login` – basic role-based access  
 - `/products` – create/update/delete products  
@@ -25,14 +25,14 @@ It includes basic features like:
 - `/dashboard` – summary charts / table  
 - `/pdf` – export an order as PDF  
 
-## 📁 Installation
+## Installation
 
 1. Clone or download the repo  
 2. Import `database.sql` into MySQL  
 3. Configure DB access in `config.php`  
 4. Run with localhost or XAMPP
 
-## 👤 Author
+## Author
 
 Francesco Boschi  
 [LinkedIn](https://www.linkedin.com/in/francesco-boschi-bb5937358)
